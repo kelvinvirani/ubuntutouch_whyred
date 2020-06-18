@@ -3,37 +3,30 @@ methods and guides for ubuntu touch
 Halium 9.0
 
 
-Device Info
+# Device Info
 
 
 Branch : Xiaomi
 Model : Redmi Note
 Phone : Xiaomi Redmi Note 5 Pro / AI
 CodeName : Whyred
-Log:
-Rootfs Armhf
-Android Rootfs GSI
-All From Erfan
-GPS ( Test This - wait 15min )
-Camera Works
-Bluetooth Works
-Kernel New Camera
-Camera wait me Fix Agan
-Update New Rootfs
 
-How to Flash
+
+# How to Flash
 1 Backup Boot With Recovery
 2 Flash Halium-Boot.img
 3 Flash UbPorts-*.zip
 4 reboot
 ( Please Don't Wipe )
-How To Dualboot
+
+# How To Dualboot
 boot to android :
 Restore Backup Boot
 
-boot to UbPorts :
+# boot to UbPorts :
 Flash Halium-Boot.img Into Boot
-Anbox Install
+
+# Anbox Install
 Open Terminal and Type :
 
 sudo apt install anbox-ubuntu-touch
