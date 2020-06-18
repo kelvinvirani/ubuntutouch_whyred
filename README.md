@@ -7,8 +7,11 @@ Halium 9.0
 
 
 Branch : Xiaomi
+
 Model : Redmi Note
+
 Phone : Xiaomi Redmi Note 5 Pro / AI
+
 CodeName : Whyred
 
 
