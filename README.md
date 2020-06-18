@@ -62,3 +62,7 @@ start -q anbox-session
 reboot
 ( Wait Reboot, Don't Force Reboot )
 
+#windows 
+gsettings set com.canonical.Unity8 usage-mode Windowed
+
+
